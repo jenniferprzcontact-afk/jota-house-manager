@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#ef7d22"/>
+  <path fill="#fff" d="M108 174 256 70l148 104v222c0 25-20 46-46 46H154c-25 0-46-21-46-46Z"/>
+  <path fill="#ef7d22" d="M198 238h116v158H198z"/>
+  <path fill="#211a16" d="M224 262h64v34h-30v76h-34zm90 0h34v110h-34z"/>
+  <text x="256" y="146" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="#211a16">JOTA</text>
+</svg>

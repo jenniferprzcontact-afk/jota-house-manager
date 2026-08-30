@@ -1,0 +1,11 @@
+{
+  "name": "JOTA HOUSE MANAGER",
+  "short_name": "Jota House",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f4f1",
+  "theme_color": "#ef7d22",
+  "icons": [
+    {"src": "app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
